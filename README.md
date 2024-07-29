@@ -7,18 +7,18 @@ GitHub- https://github.com/dhruvgohil18
 
 # Output - 1
 
-![Screenshot (1)](https://github.com/aditipawar31/My-portfolio/blob/main/screen%201.png)
+![Screenshot (1)](https://github.com/dhruvgohil18/My-Portfolio/blob/main/Screen%201.jpg)
 
 
 # Output - 2
 
-![Screenshot (2)](https://github.com/aditipawar31/My-portfolio/blob/main/screen%202.png)
+![Screenshot (2)](https://github.com/dhruvgohil18/My-Portfolio/blob/main/Screen%202.jpg)
 
 
 # Output - 3
 
-![Screenshot (3)](https://github.com/aditipawar31/My-portfolio/blob/main/screen%203.png)
+![Screenshot (3)](https://github.com/dhruvgohil18/My-Portfolio/blob/main/Screen%203.jpg)
 
 # Output - 4
 
-![Screenshot (4)](https://github.com/aditipawar31/My-portfolio/blob/main/screen%204.png)
+![Screenshot (4)](https://github.com/dhruvgohil18/My-Portfolio/blob/main/Screen%204.jpg)
